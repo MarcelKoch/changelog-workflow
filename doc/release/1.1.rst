@@ -1,0 +1,12 @@
+Version 1.1 Release Notes
+*************************
+
+.. only:: html
+
+  .. contents::
+
+Changes made since App 1.0 include the following.
+
+* This adds feature a
+
+* This adds feature b
