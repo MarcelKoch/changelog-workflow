@@ -7,6 +7,7 @@ Version 1.1 Release Notes
 
 Changes made since App 1.0 include the following.
 
-* This adds feature a
+Added:
 
-* This adds feature b
+* This adds feature a
+* This adds feature b, perhaps some contexts??
