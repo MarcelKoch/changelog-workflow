@@ -90,7 +90,7 @@ def update_current_changelog(changelog_updates: Dict[str, str], current_version:
     return new_changelog
 
 
-new_content = update_current_changelog(changelog, current_release, "1.1.0")
+new_content = update_current_changelog(changelog, current_release, next_release)
 
 shutil.copy(CHANGELOG_FILE, CHANGELOG_BACKUP)
 try:
